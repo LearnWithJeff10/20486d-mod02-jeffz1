@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DesignProject.Photo2">
+    <Position X="4.5" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAEAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Photo2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignProject.Comment2">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Comment2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
