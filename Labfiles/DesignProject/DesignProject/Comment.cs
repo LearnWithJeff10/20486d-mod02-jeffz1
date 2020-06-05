@@ -8,10 +8,11 @@ namespace DesignProject
 {
     class Comment
     {
-        public int CommentId { get; set; }
+        public int CommentID { get; set; }
         public string User { get; set; }
         public string Subject { get; set; }
         public int MyProperty { get; set; }
         public int PhotoId { get; set; }
+        public string Body { get; set; }
     }
 }

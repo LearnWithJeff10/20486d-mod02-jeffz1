@@ -14,5 +14,6 @@ namespace DesignProject
         public string Description { get; set; }
         public DateTime CreatedDate { get; set; }
         public string Owner { get; set; }
+        public List<Comment> PhotoComments { get; set; }
     }
 }
